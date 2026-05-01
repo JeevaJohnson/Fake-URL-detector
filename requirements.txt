@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+joblib
+tldextract
+tensorflow
+numpy
