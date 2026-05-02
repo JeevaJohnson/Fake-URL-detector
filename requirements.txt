@@ -1,7 +1,11 @@
 fastapi
 uvicorn
-joblib
-tldextract
-numpy==1.23.5
-tensorflow-cpu==2.12.0
 pandas
+numpy==1.23.5
+requests
+python-whois
+scikit-learn
+xgboost
+tldextract
+joblib
+tensorflow-cpu==2.12.0
